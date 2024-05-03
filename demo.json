@@ -33,7 +33,7 @@
 "isUpdate": false,
 "updateUrl": "",
 "screens": {
-"/Home": {
+"/home": {
 "localAdFlag": true,
 "localClick": [
 0
