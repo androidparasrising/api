@@ -1,0 +1,81 @@
+{
+"adIds": {
+"google": {
+"fullScreen": "",
+"reward": "ca-app-pub-3940256099942544/1712485313",
+"rewardInter": "ca-app-pub-3940256099942544/6978759866",
+"banner": "ca-app-pub-3940256099942544/2435281174",
+"native": "ca-app-pub-3940256099942544/3986624511"
+},
+"unity": {
+"placementId": "",
+"gameId": ""
+},
+"applovin": {
+"id": "",
+"fullScreen": ""
+},
+"ironSource": {
+"appId": ""
+}
+},
+"1.0.0": {
+"globalConfig": {
+"globalAdFlag": true,
+"globalNative": true,
+"globalBanner": true,
+"rewardOverRide": false,
+"overrideTimer": 15,
+"rateUsTimer": 600,
+"maxFailed": 2
+},
+"isUserConsent": false,
+"isUpdate": false,
+"updateUrl": "",
+"screens": {
+"/Home": {
+"localAdFlag": true,
+"localClick": [
+0
+],
+"localFail": {
+"2": 4,
+"3": 4
+},
+"actions": {
+"actionName": {
+"localAdFlag": true,
+"localClick": [
+0
+],
+"localFail": {
+"0": 1
+}
+}
+},
+"banner": 0,
+"native": 0
+}
+},
+"actions": {
+"SplashScreen": {
+"localAdFlag": false,
+"localClick": [
+0
+],
+"localFail": {
+"0": 1
+}
+},
+"actionName": {
+"localAdFlag": true,
+"localClick": [
+0
+],
+"localFail": {
+"0": 1
+}
+}
+}
+}
+}
