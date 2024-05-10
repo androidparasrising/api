@@ -23,6 +23,47 @@
     "updateUrl": "",
     "screens": {
       "/home": {
+        "localAdFlag": false,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "2": 4,
+          "3": 4
+        },
+        "actions": {
+          "look_end_choose": {
+            "localAdFlag": true,
+            "localClick": [
+              0
+            ],
+            "localFail": {
+              "0": 1
+            }
+          },
+          "listen_and_guess": {
+            "localAdFlag": true,
+            "localClick": [
+              0
+            ],
+            "localFail": {
+              "0": 1
+            }
+          },
+          "stories": {
+            "localAdFlag": true,
+            "localClick": [
+              0
+            ],
+            "localFail": {
+              "0": 1
+            }
+          }
+        },
+        "banner": 0,
+        "native": 0
+      },
+      "/look_and_choose": {
         "localAdFlag": true,
         "localClick": [
           0
@@ -40,28 +81,10 @@
             "localFail": {
               "0": 1
             }
-          },
-          "listen_and_guess": {
-            "localAdFlag": false,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "stories": {
-            "localAdFlag": false,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
           }
         },
-        "banner": 1,
-        "native": 1
+        "banner": 0,
+        "native": 0
       }
     }
   }
