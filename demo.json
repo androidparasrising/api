@@ -23,7 +23,7 @@
     "updateUrl": "",
     "screens": {
       "/home": {
-        "localAdFlag": false,
+        "localAdFlag": true,
         "localClick": [
           0
         ],
@@ -64,7 +64,7 @@
         "native": 0
       },
       "/look_and_choose": {
-        "localAdFlag": false,
+        "localAdFlag": true,
         "localClick": [
           0
         ],
