@@ -73,8 +73,8 @@
           "3": 4
         },
         "actions": {
-          "look_end_choose": {
-            "localAdFlag": false,
+          "list_item_click": {
+            "localAdFlag": true,
             "localClick": [
               0
             ],
