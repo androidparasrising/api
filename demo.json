@@ -33,7 +33,7 @@
         },
         "actions": {
           "look_end_choose": {
-            "localAdFlag": true,
+            "localAdFlag": false,
             "localClick": [
               0
             ],
@@ -51,7 +51,7 @@
             }
           },
           "stories": {
-            "localAdFlag": true,
+            "localAdFlag": false,
             "localClick": [
               0
             ],
@@ -60,28 +60,8 @@
             }
           }
         },
-        "banner": 0,
-        "native": 0
-      }
-    },
-    "actions": {
-      "SplashScreen": {
-        "localAdFlag": false,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "0": 1
-        }
-      },
-      "actionName": {
-        "localAdFlag": true,
-        "localClick": [
-          1
-        ],
-        "localFail": {
-          "0": 1
-        }
+        "banner": 1,
+        "native": 1
       }
     }
   }
