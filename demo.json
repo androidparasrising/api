@@ -131,6 +131,52 @@
         },
         "banner": 0,
         "native": 0
+      },
+      "/storyCategory": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "2": 4,
+          "3": 4
+        },
+        "actions": {
+          "next": {
+            "localAdFlag": true,
+            "localClick": [
+              0
+            ],
+            "localFail": {
+              "0": 1
+            }
+          }
+        },
+        "banner": 0,
+        "native": 0
+      },
+      "/storyList": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "2": 4,
+          "3": 4
+        },
+        "actions": {
+          "next": {
+            "localAdFlag": true,
+            "localClick": [
+              0
+            ],
+            "localFail": {
+              "0": 1
+            }
+          }
+        },
+        "banner": 0,
+        "native": 0
       }
     }
   }
