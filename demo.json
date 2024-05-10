@@ -32,10 +32,10 @@
           "3": 4
         },
         "actions": {
-          "actionName": {
+          "look_end_choose": {
             "localAdFlag": true,
             "localClick": [
-              1
+              0
             ],
             "localFail": {
               "0": 1
