@@ -40,6 +40,24 @@
             "localFail": {
               "0": 1
             }
+          },
+          "listen_and_guess": {
+            "localAdFlag": false,
+            "localClick": [
+              0
+            ],
+            "localFail": {
+              "0": 1
+            }
+          },
+          "stories": {
+            "localAdFlag": true,
+            "localClick": [
+              0
+            ],
+            "localFail": {
+              "0": 1
+            }
           }
         },
         "banner": 0,
