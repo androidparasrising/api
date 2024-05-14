@@ -274,6 +274,29 @@
         "banner": 0,
         "native": 0
       },
+      "/learnSound": {
+        "localAdFlag": true,
+        "localClick": [
+          0
+        ],
+        "localFail": {
+          "2": 4,
+          "3": 4
+        },
+        "actions": {
+          "next": {
+            "localAdFlag": true,
+            "localClick": [
+              0
+            ],
+            "localFail": {
+              "0": 1
+            }
+          }
+        },
+        "banner": 0,
+        "native": 0
+      },
       "/setting": {
         "localAdFlag": true,
         "localClick": [
