@@ -2,6 +2,7 @@
   "privacy": "https://www.google.com/",
   "more_app" : "https://www.google.com/",
   "share_app" : "https://www.google.com/",
+  "feedback_mail" : "paras.rising416@gmail.com",
   "adIds": {
     "google": {
       "fullScreen": "ca-app-pub-3940256099942544/4411468910",
