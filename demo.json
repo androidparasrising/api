@@ -157,6 +157,15 @@
             "localFail": {
               "0": 1
             }
+          },
+          "setting": {
+            "localAdFlag": true,
+            "localClick": [
+              0
+            ],
+            "localFail": {
+              "0": 1
+            }
           }
         },
         "banner": 0,
