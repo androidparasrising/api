@@ -228,7 +228,7 @@
           "3": 4
         },
         "actions": {
-          "look_end_choose": {
+          "download": {
             "localAdFlag": true,
             "localClick": [
               0
@@ -237,43 +237,7 @@
               "0": 1
             }
           },
-          "listen_and_guess": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "stories": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "memory_game": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "kids_for_learn": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "setting": {
+          "back_to_home": {
             "localAdFlag": true,
             "localClick": [
               0
