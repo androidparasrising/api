@@ -433,74 +433,6 @@
         "banner": 0,
         "native": 0
       },
-      "/jpg": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "actions": {
-          "look_end_choose": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "listen_and_guess": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "stories": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "memory_game": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "kids_for_learn": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "setting": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          }
-        },
-        "banner": 0,
-        "native": 0
-      },
       "/imageToPdf": {
         "localAdFlag": true,
         "localClick": [
@@ -511,52 +443,7 @@
           "3": 4
         },
         "actions": {
-          "look_end_choose": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "listen_and_guess": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "stories": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "memory_game": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "kids_for_learn": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "setting": {
+          "image_to_pdf": {
             "localAdFlag": true,
             "localClick": [
               0
