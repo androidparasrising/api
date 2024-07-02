@@ -31,226 +31,7 @@
       "/splash" : {
         "localAdFlag": true
       },
-      "/dahboard": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "actions": {
-          "merge_pdf": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "split_pdf": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "compress_pdf": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "pdf_to_word": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "pdf_to_powerpoint": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "pdf_to_excel": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "excel_to_pdf": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "word_to_pdf": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "powerpoint_to_pdf": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "image_to_pdf": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "page_number": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "watermark": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "protech_pdf": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "setting": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          }
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/setting": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/convert_pdf_upload": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/convert": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "actions": {
-          "convert": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          }
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/success": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "actions": {
-          "download": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "back_to_home": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          }
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/merge_pdf": {
+      "/intro": {
         "localAdFlag": true,
         "localClick": [
           0
@@ -273,7 +54,7 @@
         "banner": 0,
         "native": 0
       },
-      "/split_pdf": {
+      "/home": {
         "localAdFlag": true,
         "localClick": [
           0
@@ -283,7 +64,7 @@
           "3": 4
         },
         "actions": {
-          "split_pdf": {
+          "merge_pdf": {
             "localAdFlag": true,
             "localClick": [
               0
@@ -296,7 +77,7 @@
         "banner": 0,
         "native": 0
       },
-      "/splitByRanges": {
+      "/folder": {
         "localAdFlag": true,
         "localClick": [
           0
@@ -306,7 +87,7 @@
           "3": 4
         },
         "actions": {
-          "split_pdf": {
+          "merge_pdf": {
             "localAdFlag": true,
             "localClick": [
               0
@@ -319,7 +100,7 @@
         "banner": 0,
         "native": 0
       },
-      "/fixed_range": {
+      "/edit_document": {
         "localAdFlag": true,
         "localClick": [
           0
@@ -329,7 +110,7 @@
           "3": 4
         },
         "actions": {
-          "split_pdf": {
+          "merge_pdf": {
             "localAdFlag": true,
             "localClick": [
               0
@@ -342,7 +123,7 @@
         "banner": 0,
         "native": 0
       },
-      "/deletePages": {
+      "/editor_document": {
         "localAdFlag": true,
         "localClick": [
           0
@@ -352,7 +133,7 @@
           "3": 4
         },
         "actions": {
-          "split_pdf": {
+          "merge_pdf": {
             "localAdFlag": true,
             "localClick": [
               0
@@ -365,7 +146,7 @@
         "banner": 0,
         "native": 0
       },
-      "/compress": {
+      "/select_layer": {
         "localAdFlag": true,
         "localClick": [
           0
@@ -375,75 +156,7 @@
           "3": 4
         },
         "actions": {
-          "look_end_choose": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "listen_and_guess": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "stories": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "memory_game": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          },
-          "kids_for_learn": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0" : 1
-            }
-          },
-          "setting": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0" : 1
-            }
-          }
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/imageToPdf": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "actions": {
-          "image_to_pdf": {
+          "merge_pdf": {
             "localAdFlag": true,
             "localClick": [
               0
@@ -456,55 +169,7 @@
         "banner": 0,
         "native": 0
       },
-      "/rotate_image": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/page_orientation": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/page_size": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/image_order": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/page_number": {
+      "/qrCodeGenerator": {
         "localAdFlag": true,
         "localClick": [
           0
@@ -514,7 +179,7 @@
           "3": 4
         },
         "actions": {
-          "add_page_number": {
+          "merge_pdf": {
             "localAdFlag": true,
             "localClick": [
               0
@@ -523,100 +188,6 @@
               "0": 1
             }
           }
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/text": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/watermark": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "actions": {
-          "apply_watermark": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          }
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/watermark_option": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/protect_pdf": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "actions": {
-          "protect_pdf": {
-            "localAdFlag": true,
-            "localClick": [
-              0
-            ],
-            "localFail": {
-              "0": 1
-            }
-          }
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/save_file": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
-        },
-        "banner": 0,
-        "native": 0
-      },
-      "/pdf_preview": {
-        "localAdFlag": true,
-        "localClick": [
-          0
-        ],
-        "localFail": {
-          "2": 4,
-          "3": 4
         },
         "banner": 0,
         "native": 0
